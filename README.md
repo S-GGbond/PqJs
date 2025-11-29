@@ -11,6 +11,7 @@ PyQtWeb引擎逆向工具
     代码版本
 ## 一,命令行版本
 ### 1.下载exe or sh
+[下载](https://github.com/S-CheZ/PqJs/releases/tag/%E6%B5%8B%E8%AF%95)
 ### 2.打开命令行执行exe or sh
     
     usage: main.py [-h] [-url URL] input_file
