@@ -31,9 +31,13 @@ PyQtWeb引擎逆向工具
 > export QT_NO_GLUT=1<br/>
 
 
+<br/>
+<br/>
+<br/>
 
+## 有什么问题欢迎大家加群讨论
 
-<div style="display: flex !important;flex-direction: row;justify-content: space-around;">
+<div style="display:flex;flex-direction: row;justify-content: space-around;">
   <img src="https://github.com/S-GGbond/PqJs/blob/main/img/wx.jpeg" width="200"  alt="微信群">
   <img src="https://github.com/S-GGbond/PqJs/blob/main/img/qq.jpeg" width="200"  alt="QQ群">
     
